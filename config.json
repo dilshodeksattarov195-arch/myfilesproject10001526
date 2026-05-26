@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervecrypt",
+        "uuid": 10514140,
+        "checksum": "yzfjxo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
